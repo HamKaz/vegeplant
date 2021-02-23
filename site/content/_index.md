@@ -1,20 +1,23 @@
 ---
-title: "フカフカの土を作ります。"
-subtitle: Support sustainable farming while enjoying a cup
+title: "フカフカの土作りをお手伝いします。"
+subtitle: ""
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: "腐葉土持参で土作りをお手伝いします。"
+    text: "腐葉土持参でお庭の土作りのお手伝いをします。
+"
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "都市農業・都市緑化運動の一環として、ベジガーデンクラブを始めました。"
+"
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "お庭でちょっと苗を植えて、お花やお野菜、ハーブを作ってみたい。お庭の広さは移植コテと熊手で手入れするくらい。"
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "でも実際に手を入れ始めると雑草抜きや土作りが重労働で大変かも。"
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: "土作りのご提案"
+    text: "そんな方に、土を耕して、必要に応じて小石を取り除き、フカフカにする土作りをご提案します。お庭をキレイに蘇らせましょう。"
+
 ---
 
